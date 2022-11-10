@@ -1,0 +1,11 @@
+{
+  "python.pythonPath": "/home/shahruk/anaconda3/envs/tf2/bin/python",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.lintOnSave": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "python.linting.pylintArgs": ["--rcfile=.pylintrc"],
+  "python.formatting.autopep8Args": ["--global-config=.pep8"],
+  "C_Cpp.dimInactiveRegions": false
+}

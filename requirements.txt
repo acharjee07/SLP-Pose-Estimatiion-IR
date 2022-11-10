@@ -1,0 +1,10 @@
+
+ torchvision
+ matplotlib
+ pytorch-lightning
+ wandb
+ timm
+ easydict
+ opencv-python
+ scipy
+ scikit-learn 
